@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "steph's zoom clone coding using js and nodejs, WebRTC and WebSockets",
   "author": "Steph's zoom clone coding",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
